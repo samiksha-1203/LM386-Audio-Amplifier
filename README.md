@@ -6,6 +6,12 @@ This folder contains materials for an LM386-based audio amplifier project, inclu
 ## Project Details
 This project implements a compact, low-power audio amplifier using the LM386 IC. The circuit targets small speaker or headphone loads for portable audio sources, with an optional bass boost network to enhance low-frequency response. Design work includes schematic capture, PCB layout (Gerber), and documentation in the report and presentation files.
 
+## Working Video
+<video controls width="640">
+	<source src="Working%20Video.mp4" type="video/mp4">
+	Your viewer does not support HTML video. Open the file here: <a href="Working%20Video.mp4">Working Video.mp4</a>
+</video>
+
 ## Contents
 - circuit_diagram/ (circuit diagrams)
 - Gerber File - Audio Amplifier .pdf
